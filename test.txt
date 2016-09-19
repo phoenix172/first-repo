@@ -1,4 +1,8 @@
 blabla
 Update with Bash...
 Update with Tortoise…
+<<<<<<< HEAD
 blalblabla
+=======
+gosho ot pernik
+>>>>>>> b7cc91d74ffc8acaa57b25b5be5b2d995e06d1e4
